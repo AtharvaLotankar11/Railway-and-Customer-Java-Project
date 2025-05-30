@@ -10,7 +10,7 @@ The **Railways and Customers** application provides a basic simulation of an onl
 
 This project is designed for learning purposes, showcasing Java object-oriented design and GUI programming.
 
-(java.png)
+<img src="java.png" width=150px height=150px alt="java.png">
 ---
 
 ## 🎯 Features
