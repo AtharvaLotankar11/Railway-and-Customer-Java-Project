@@ -7,9 +7,10 @@
 !src/
 !src/**
 !*.iml
-
-# Compiled class files
-*.class
+!.idea/
+!.idea/**
+!out/
+!out/**
 
 # Log files
 *.log
@@ -23,13 +24,13 @@
 *.tar.gz
 *.rar
 
-# IDE specific files
-.idea/
+# IDE specific files - keep these
+# .idea/ - we want to keep this
 *.iws
 *.ipr
 
-# Output directories
-out/
+# Output directories - keep these
+# out/ - we want to keep this
 target/
 
 # Windows
