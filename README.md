@@ -28,12 +28,6 @@ A comprehensive Java Swing application for managing railway operations and custo
 - ⚡ Real-time form updates
 - 🎯 Input validation and error messages
 
-## Screenshots
-
-The application features a tabbed interface with:
-- **Customer Management Tab**: Complete customer lifecycle management
-- **Railway Management Tab**: Train schedule and route management
-
 ## Getting Started
 
 ### Prerequisites
@@ -121,9 +115,6 @@ The application comes pre-loaded with sample data:
 - 📧 Email notifications
 - 🔍 Advanced search and filtering
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
@@ -133,7 +124,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to the Java Swing community for excellent documentation
-- Inspired by real-world railway management systems
+- Inspired by real-world railway management systems of IRCTC
 - Built as part of Java learning journey
 
 ---
