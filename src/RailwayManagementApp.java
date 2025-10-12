@@ -95,9 +95,20 @@ public class RailwayManagementApp extends JFrame {
         add(tabbedPane, BorderLayout.CENTER);
 
         // Footer
-        JPanel footer = new JPanel();
+        JPanel footer = new JPanel(new BorderLayout());
         footer.setBackground(new Color(240, 240, 240));
-        footer.add(new JLabel("✅ Fully Integrated System - Both tabs working!"));
+        footer.setBorder(BorderFactory.createEmptyBorder(10, 20, 10, 20));
+        
+        JLabel statusLabel = new JLabel("✅ Fully Integrated System - Both tabs working!");
+        statusLabel.setHorizontalAlignment(SwingConstants.CENTER);
+        
+        JLabel copyrightLabel = new JLabel("<html><center>Copyright 2023 - Atharva Lotankar, Aaryan Shetye (Railway GUI Implementors)<br>& Ronit Sahoo, Ishaan Khan (Customer GUI Implementors)</center></html>");
+        copyrightLabel.setFont(new Font(Font.SANS_SERIF, Font.PLAIN, 10));
+        copyrightLabel.setForeground(new Color(100, 100, 100));
+        copyrightLabel.setHorizontalAlignment(SwingConstants.CENTER);
+        
+        footer.add(statusLabel, BorderLayout.NORTH);
+        footer.add(copyrightLabel, BorderLayout.SOUTH);
         add(footer, BorderLayout.SOUTH);
     }
 
