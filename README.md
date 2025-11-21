@@ -211,8 +211,16 @@ git push origin feature/AmazingFeature
 <div align="center">
 
 **Atharva Lotankar**
-
 [![GitHub](https://img.shields.io/badge/GitHub-AtharvaLotankar11-181717?style=for-the-badge&logo=github)](https://github.com/AtharvaLotankar11)
+
+**Aaryan Shetye**
+[![GitHub](https://img.shields.io/badge/GitHub-Aaryan92005-181717?style=for-the-badge&logo=github)](https://github.com/Aaryan92005)
+
+**Ronit Sahoo**
+[![GitHub](https://img.shields.io/badge/GitHub-ronitsahoo-181717?style=for-the-badge&logo=github)](https://github.com/ronitsahoo)
+
+**Ishaan Khan**
+[![GitHub](https://img.shields.io/badge/GitHub-Flappleton-181717?style=for-the-badge&logo=github)](https://github.com/Flappleton)
 
 </div>
 
